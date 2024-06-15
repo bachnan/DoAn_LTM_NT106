@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GMT\\Downloads\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\21520888_LeHuyHung_FinalReport\\Source\\Source\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36B8A07-4C52-423C-B10B-B0714822B9DB}|Server.csproj|c:\\users\\gmt\\downloads\\ssh - l\u00EA huy h\u00F9ng_2129301_assignsubmission_file\\ssh - l\u00EA huy h\u00F9ng_2129301_assignsubmission_file\\21520888_lehuyhung_finalreport\\source\\source\\server\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36B8A07-4C52-423C-B10B-B0714822B9DB}|Server.csproj|solutionrelative:menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36B8A07-4C52-423C-B10B-B0714822B9DB}|Server.csproj|c:\\users\\gmt\\downloads\\ssh - l\u00EA huy h\u00F9ng_2129301_assignsubmission_file\\ssh - l\u00EA huy h\u00F9ng_2129301_assignsubmission_file\\21520888_lehuyhung_finalreport\\source\\source\\server\\menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{F36B8A07-4C52-423C-B10B-B0714822B9DB}|Server.csproj|solutionrelative:menu.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GMT\\Downloads\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\21520888_LeHuyHung_FinalReport\\Source\\Source\\Server\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\GMT\\Downloads\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\21520888_LeHuyHung_FinalReport\\Source\\Source\\Server\\Menu.Designer.cs",
+              "RelativeToolTip": "Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:04:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.resx",
+              "DocumentMoniker": "C:\\Users\\GMT\\Downloads\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\21520888_LeHuyHung_FinalReport\\Source\\Source\\Server\\Menu.resx",
+              "RelativeDocumentMoniker": "Menu.resx",
+              "ToolTip": "C:\\Users\\GMT\\Downloads\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\ssh - L\u00EA Huy H\u00F9ng_2129301_assignsubmission_file\\21520888_LeHuyHung_FinalReport\\Source\\Source\\Server\\Menu.resx",
+              "RelativeToolTip": "Menu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-13T18:04:45.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
